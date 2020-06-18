@@ -1,0 +1,28 @@
+.marquee {
+	margin:50px auto;
+	height:310px;
+	width:650px;
+    background: url(images/mountain.png);
+    background-position: bottom, 95% 15%;
+    background-repeat: repeat-x, no-repeat;
+	border:#00CCCC 1px solid;
+	border-radius:15px;
+	padding:30px 0 0 0;
+}
+
+.sun {
+	margin-left:20px;
+}
+
+.cloud {
+	margin-top:-105px;
+}
+
+.butterfly {
+	margin-top:-140px;
+	margin-left:60px;
+}
+
+.dog {
+	margin-top:20px;
+}
